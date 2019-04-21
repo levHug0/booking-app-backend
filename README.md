@@ -30,6 +30,7 @@ or badRequest if some of the data needed are incorrect or missing
 
 * `npm install sails -g`
 * Using a terminal cd into project `/booking-app-backend`
+* Type `npm install`
 * Type `sails lift`
 
 
